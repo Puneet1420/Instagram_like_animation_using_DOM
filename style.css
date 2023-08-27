@@ -40,6 +40,7 @@ body{
     color: #fff;
     transform: translate(-50% ,-50%) scale(0);
     opacity: 1;
-    transition: all ease 0.4s;
+    transition: transform ease 0.4s;
+    
     
 }
